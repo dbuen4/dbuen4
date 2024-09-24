@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Dale :)
+- 👀 I’m interested in enhancing my team-based coding skills
+- 🌱 I’m currently learning assembly language :(
+- 💞️ I’m looking to collaborate on starter-friendly web applications
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Big Fan of the Soulsborne Games 
